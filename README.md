@@ -7,4 +7,4 @@ We hope others find these materials useful. We'll try to keep growing the inform
 
 The main file of resoruce links can be found here: https://docs.google.com/spreadsheets/d/16ACelaGDMq8srQHZZ3vJWbGB5tMlXVQjLvUPJQxF9LI/edit#gid=0
 
-Using this as an open-sourced way to be a part of my actions and accountability.
+Using this as an open-sourced way to be a part of action and accountability.
